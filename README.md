@@ -1,10 +1,18 @@
-To Do List Python CLI
+# To Do List Python CLI
 
-Aplikasi sederhana berbasis Python untuk mengelola daftar tugas di terminal.
-Fitur utama:
+Aplikasi sederhana berbasis **Python** untuk mengelola daftar tugas langsung dari terminal.
 
-1.Tambah tugas dengan nama, deadline, dan prioritas
-2.Lihat daftar tugas (belum selesai & selesai)
-3.Hapus tugas
-4.Tandai tugas sebagai selesai
-5.Data tersimpan di file todolist.json
+## ✨ Fitur
+- Tambah tugas dengan **nama, deadline, dan prioritas**
+- Lihat daftar tugas (belum selesai & selesai)
+- Hapus tugas
+- Tandai tugas sebagai selesai
+- Data otomatis tersimpan di file `todolist.json`
+
+## 🚀 Cara Menjalankan
+1. Clone repository atau download file.
+2. Pastikan Python sudah terinstal di komputer.
+3. Jalankan program dengan perintah:
+
+```bash
+python todolist.py
